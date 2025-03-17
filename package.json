@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  },
+  "name": "typescript-studies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexSnider/typescript-studies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexSnider/typescript-studies/issues"
+  },
+  "homepage": "https://github.com/AlexSnider/typescript-studies#readme",
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
